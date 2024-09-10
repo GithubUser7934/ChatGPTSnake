@@ -3,7 +3,7 @@ import time
 import random
 
 # Initialize Pygame
-pygame.init()
+pygame.display.init()  # Only initialize the display module, skip sound
 
 # Define colors
 white = (255, 255, 255)

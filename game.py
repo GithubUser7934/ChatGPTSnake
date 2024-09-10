@@ -27,8 +27,8 @@ snake_block = 10
 snake_speed = 15
 
 # Fonts
-font_style = pygame.font.SysFont("bahnschrift", 25)
-score_font = pygame.font.SysFont("comicsansms", 35)
+font_style = pygame.font.SysFont("Arial", 25)
+score_font = pygame.font.SysFont("Arial", 35)
 
 # Clock for setting up speed
 clock = pygame.time.Clock()

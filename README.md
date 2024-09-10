@@ -1,5 +1,5 @@
 ## ChatGPT Snake
 Play the classic game Snake through Github Codespaces!
 
-Built using ChatGPT, an Large Lanuage Model (LLM) Developed by OpenAi.
+Built using ChatGPT, an Large Language Model (LLM) Developed by OpenAi.
 ### Work In Progress
